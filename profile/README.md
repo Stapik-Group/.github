@@ -19,8 +19,9 @@ Apps tested on ZorinOS.
 | **[stapik-planner](https://github.com/Stapik-Group/stapik-planner)** | Weekly planner with a reusable activity catalog and per-day workload tracking, so you notice you're overbooked before Wednesday does. |
 | **[stapik-planner-mobile](https://github.com/Stapik-Group/stapik-planner-mobile)** | Companion Android app for Stapik Planner – basic functionality, read-only with offline checking daily tasks. |
 | **[stapik-media](https://github.com/Stapik-Group/stapik-media)** | A log for everything you've watched, read, listened to or played — organized by category, filterable by when you got to it. |
+| **[stapik-media-mobile](https://github.com/Stapik-Group/stapik-media-mobile)** | Companion Android app for Stapik Media – basic functionality. |
 
-All four are standalone — install whichever ones you actually need.
+All desktop apps are standalone — install whichever ones you actually need.
 
 ## Shared foundation
 
