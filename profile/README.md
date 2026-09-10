@@ -20,6 +20,7 @@ Apps tested on ZorinOS.
 | **[stapik-planner-mobile](https://github.com/Stapik-Group/stapik-planner-mobile)** | Companion Android app for Stapik Planner – basic functionality, read-only with offline checking daily tasks. |
 | **[stapik-media](https://github.com/Stapik-Group/stapik-media)** | A log for everything you've watched, read, listened to or played — organized by category, filterable by when you got to it. |
 | **[stapik-media-mobile](https://github.com/Stapik-Group/stapik-media-mobile)** | Companion Android app for Stapik Media – basic functionality. |
+| **[stapik-budgeting](https://github.com/Stapik-Group/stapik-budgeting)** | Track your income and expenses in a simple monthly view, with customizable categories, currencies, languages and themes. |
 
 All desktop apps are standalone — install whichever ones you actually need.
 
