@@ -21,6 +21,7 @@ Apps tested on ZorinOS.
 | **[stapik-media](https://github.com/Stapik-Group/stapik-media)** | A log for everything you've watched, read, listened to or played — organized by category, filterable by when you got to it. |
 | **[stapik-media-mobile](https://github.com/Stapik-Group/stapik-media-mobile)** | Companion Android app for Stapik Media – basic functionality. |
 | **[stapik-budgeting](https://github.com/Stapik-Group/stapik-budgeting)** | Track your income and expenses in a simple monthly view, with customizable categories, currencies, languages and themes. |
+| **[stapik-budgeting-mobile](https://github.com/Stapik-Group/stapik-budgeting-mobile)** | Companion Android app for Stapik Budgeting – basic functionality. |
 
 All desktop apps are standalone — install whichever ones you actually need.
 
