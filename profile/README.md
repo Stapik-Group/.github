@@ -23,6 +23,7 @@ Apps tested on ZorinOS.
 | **[stapik-budgeting](https://github.com/Stapik-Group/stapik-budgeting)** | Track your income and expenses in a simple monthly view, with customizable categories, currencies, languages and themes. |
 | **[stapik-budgeting-mobile](https://github.com/Stapik-Group/stapik-budgeting-mobile)** | Companion Android app for Stapik Budgeting – basic functionality. |
 | **[stapik-groceries](https://github.com/Stapik-Group/stapik-groceries)** | Plan your monthly shopping list, track what you actually spend versus what you planned, and see your savings. |
+| **[stapik-groceries-mobile](https://github.com/Stapik-Group/stapik-groceries-mobile)** | Companion Android app for Stapik Groceries – basic functionality. |
 
 All desktop apps are standalone — install whichever ones you actually need.
 
